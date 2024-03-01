@@ -46,7 +46,7 @@ conda env create --file env.yml
 <br>
 conda env list
 <br>
-![Screenshot from 2024-03-01 13-22-51](https://github.com/Isha-Guptaa/nextflow_fastqc_conda/assets/152583125/272c9853-95e9-4d09-9841-90ee7dc11d88)
+![Screenshot from 2024-03-01 13-24-44](https://github.com/Isha-Guptaa/nextflow_fastqc_conda/assets/152583125/7da56bcd-b66b-4c6a-b1df-21abe3fab103)
 <br>
 5) Run:
 <br>
