@@ -35,7 +35,9 @@ nextflow -version
 1) Create a folder named 'data' and download the .fq files from: https://www.ebi.ac.uk/ena/browser/view/SRR9873306
 <br>
 2)Create env.yaml file with content:
-
+<br>
+![Screenshot from 2024-03-01 13-20-22](https://github.com/Isha-Guptaa/nextflow_fastqc_conda/assets/152583125/60d1baf7-843c-4c91-b37d-fbe56806e401)
+<br>
 3)Given the env.yml recipe file, the environment can be created using the command shown below:
 <br>
 conda env create --file env.yml
@@ -44,7 +46,7 @@ conda env create --file env.yml
 <br>
 conda env list
 <br>
-![Screenshot from 2024-03-01 13-18-42](https://github.com/Isha-Guptaa/nextflow_fastqc_conda/assets/152583125/a25d535c-f673-49b9-8a7b-9817956bb380)
+![Screenshot from 2024-03-01 13-22-51](https://github.com/Isha-Guptaa/nextflow_fastqc_conda/assets/152583125/272c9853-95e9-4d09-9841-90ee7dc11d88)
 <br>
 5) Run:
 <br>
