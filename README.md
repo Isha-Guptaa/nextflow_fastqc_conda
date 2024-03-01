@@ -36,7 +36,9 @@ nextflow -version
 <br>
 2)Create env.yaml file with content:
 <br>
-![Screenshot from 2024-03-01 13-20-22](https://github.com/Isha-Guptaa/nextflow_fastqc_conda/assets/152583125/60d1baf7-843c-4c91-b37d-fbe56806e401)
+
+![Screenshot from 2024-03-01 14-08-26](https://github.com/Isha-Guptaa/nextflow_fastqc_conda/assets/152583125/dc2ae2dd-9655-4655-ac41-19d25ffaabe7)
+
 <br>
 3)Given the env.yml recipe file, the environment can be created using the command shown below:
 <br>
