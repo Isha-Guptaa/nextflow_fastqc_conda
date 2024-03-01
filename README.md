@@ -35,21 +35,7 @@ nextflow -version
 1) Create a folder named 'data' and download the .fq files from: https://www.ebi.ac.uk/ena/browser/view/SRR9873306
 <br>
 2)Create env.yaml file with content:
-<br>
-name: nf-tutorial
-<br>
-channels:
-<br>
-    - conda-forge
-<br>
-    - defaults
-<br>
-    - bioconda
-<br>
-dependencies:
-<br>
-    - bioconda::fastqc
-<br>
+
 3)Given the env.yml recipe file, the environment can be created using the command shown below:
 <br>
 conda env create --file env.yml
@@ -57,6 +43,8 @@ conda env create --file env.yml
 4)Check if the environment was created successfully with the command shown below:
 <br>
 conda env list
+<br>
+![Screenshot from 2024-03-01 13-18-42](https://github.com/Isha-Guptaa/nextflow_fastqc_conda/assets/152583125/a25d535c-f673-49b9-8a7b-9817956bb380)
 <br>
 5) Run:
 <br>
